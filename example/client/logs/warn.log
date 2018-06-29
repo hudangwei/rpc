@@ -1,0 +1,366 @@
+[2018/06/29 20:56:41 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:57714<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 20:56:41 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:57713<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 20:56:41 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:57714<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 20:56:41 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:57713<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 20:56:59 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:4:127.0.0.1:57717<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 20:56:59 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:4:127.0.0.1:57717<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 20:56:59 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:3:127.0.0.1:57716<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 20:56:59 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:3:127.0.0.1:57716<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 20:58:33 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:57730<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 20:58:33 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:57731<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 20:58:33 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:57730<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 20:58:33 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:57731<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 21:10:58 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:57864<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:57864->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:10:58 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:57864<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:57864->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:10:58 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:57863<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:57863->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:10:58 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:57863<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:57863->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:12:43 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:57952<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:57952->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:12:43 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:57953<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:57953->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:12:43 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:57953<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:57953->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:12:43 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:57952<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:57952->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:12:45 CST] [WARN] [client.go:github.com/AlexStocks/getty.(*client).RunEventLoop.func1:391] client{peer:127.0.0.1:10000} goroutine exit now.
+[2018/06/29 21:15:16 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:58008<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:58008->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:15:16 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:58009<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:58009->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:15:16 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:58009<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:58009->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:15:16 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:58008<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:58008->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:15:18 CST] [WARN] [client.go:github.com/AlexStocks/getty.(*client).RunEventLoop.func1:391] client{peer:127.0.0.1:10000} goroutine exit now.
+[2018/06/29 21:16:15 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:58017<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:58017->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:16:15 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:58018<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:58018->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:16:15 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:58017<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:58017->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:16:15 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:58018<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:58018->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:16:17 CST] [WARN] [client.go:github.com/AlexStocks/getty.(*client).RunEventLoop.func1:391] client{peer:127.0.0.1:10000} goroutine exit now.
+[2018/06/29 21:16:52 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:58025<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:16:52 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:58025<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 21:16:52 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:58026<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:16:52 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:58026<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 21:17:00 CST] [WARN] [client.go:github.com/AlexStocks/getty.(*client).RunEventLoop.func1:391] client{peer:127.0.0.1:10000} goroutine exit now.
+[2018/06/29 21:18:50 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:58036<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:18:50 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:58036<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 21:18:50 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:58037<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:18:50 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:58037<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 21:26:52 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:58171<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:26:52 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:58171<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 21:26:52 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:58172<->127.0.0.1:10000}, [session.conn.read] = error{unexpected EOF
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:26:52 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:58172<->127.0.0.1:10000}, [session.handlePackage] error{unexpected EOF}
+[2018/06/29 21:31:51 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:58230<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:58230->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:31:51 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:58230<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:58230->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:31:51 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:58229<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:58229->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:31:51 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:58229<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:58229->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:46:20 CST] [EROR] [client.go:main.main:34] this is a error test
+[2018/06/29 21:46:21 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:58814<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:58814->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:46:21 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:58813<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:58813->127.0.0.1:10000: i/o timeout
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 21:46:21 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:58813<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:58813->127.0.0.1:10000: i/o timeout}
+[2018/06/29 21:46:21 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:58814<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:58814->127.0.0.1:10000: i/o timeout}
+[2018/06/29 22:04:14 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).WritePkg.func1:317] [session.WritePkg] panic session {echo-client:TCP_CLIENT:1:127.0.0.1:59192<->127.0.0.1:10000}: err=index > windowEnd
+goroutine 48 [running]:
+github.com/AlexStocks/getty.(*session).WritePkg.func1(0xc4201d80d0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:316 +0xbc
+panic(0x1331620, 0x13f4a60)
+	/Users/hudangwei/workspace/go/go/src/runtime/panic.go:491 +0x283
+compress/flate.(*compressor).deflate(0xc4201e6000)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:397 +0xb7d
+compress/flate.(*compressor).syncFlush(0xc4201e6000, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:565 +0x5c
+compress/flate.(*Writer).Flush(0xc4201e6000, 0xc42045e000, 0x5f)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:724 +0x2d
+github.com/AlexStocks/getty.(*writeFlusher).Write(0xc42000e018, 0xc42045e000, 0x5f, 0x9f, 0xc4201bc1e0, 0x20, 0x18)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/conn.go:195 +0x7e
+github.com/AlexStocks/getty.(*gettyTCPConn).Write(0xc4201d8000, 0x132d780, 0xc4201bc1e0, 0xc4201bc1e0, 0x15b0bc8, 0x132d780)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/conn.go:281 +0xc8
+github.com/AlexStocks/getty.(*session).WriteBytes(0xc4201d80d0, 0xc42045e000, 0x5f, 0x9f, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:349 +0xdc
+github.com/hudangwei/rpc.(*RpcClientPacketHandler).Write(0x15b0bc8, 0x1560540, 0xc4201d80d0, 0x134c920, 0xc420174180, 0x90, 0x90)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/readwriter.go:111 +0x19d
+github.com/AlexStocks/getty.(*session).WritePkg(0xc4201d80d0, 0x134c920, 0xc420174180, 0x0, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:323 +0xeb
+github.com/hudangwei/rpc.(*Client).transfer(0xc4201218f0, 0x1560540, 0xc4201d80d0, 0xc420174180, 0xc4201c40c0, 0x100fb64, 0x136ed20)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/client.go:240 +0x8c
+github.com/hudangwei/rpc.(*Client).Call(0xc4201218f0, 0x13b2446, 0x7, 0x13b17a9, 0x4, 0x136ed20, 0xc4201c4060, 0x1326de0, 0xc4201c6030, 0x0, ...)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/client.go:118 +0x1bf
+main.main.func1(0xc4201218f0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/example/client/client.go:18 +0x132
+created by main.main
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/example/client/client.go:16 +0x7f
+
+[2018/06/29 22:04:14 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).WritePkg.func1:317] [session.WritePkg] panic session {echo-client:TCP_CLIENT:1:127.0.0.1:59192<->127.0.0.1:10000}: err=index > windowEnd
+goroutine 71 [running]:
+github.com/AlexStocks/getty.(*session).WritePkg.func1(0xc4201d80d0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:316 +0xbc
+panic(0x1331620, 0x13f4a60)
+	/Users/hudangwei/workspace/go/go/src/runtime/panic.go:491 +0x283
+compress/flate.(*compressor).deflate(0xc4201e6000)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:397 +0xb7d
+compress/flate.(*compressor).syncFlush(0xc4201e6000, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:565 +0x5c
+compress/flate.(*Writer).Flush(0xc4201e6000, 0xc4202c4090, 0x60)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:724 +0x2d
+github.com/AlexStocks/getty.(*writeFlusher).Write(0xc42000e018, 0xc4202c4090, 0x60, 0x82, 0xc42000c0a0, 0x20, 0x18)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/conn.go:195 +0x7e
+github.com/AlexStocks/getty.(*gettyTCPConn).Write(0xc4201d8000, 0x132d780, 0xc42000c0a0, 0xc42000c0a0, 0x15b0bc8, 0x132d780)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/conn.go:281 +0xc8
+github.com/AlexStocks/getty.(*session).WriteBytes(0xc4201d80d0, 0xc4202c4090, 0x60, 0x82, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:349 +0xdc
+github.com/hudangwei/rpc.(*RpcClientPacketHandler).Write(0x15b0bc8, 0x1560540, 0xc4201d80d0, 0x134c920, 0xc42006e780, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/readwriter.go:111 +0x19d
+github.com/AlexStocks/getty.(*session).WritePkg(0xc4201d80d0, 0x134c920, 0xc42006e780, 0x0, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:323 +0xeb
+github.com/hudangwei/rpc.(*Client).transfer(0xc4201218f0, 0x1560540, 0xc4201d80d0, 0xc42006e780, 0xc4201b0480, 0x100fb64, 0x136ed20)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/client.go:240 +0x8c
+github.com/hudangwei/rpc.(*Client).Call(0xc4201218f0, 0x13b2446, 0x7, 0x13b17a9, 0x4, 0x136ed20, 0xc4201b0420, 0x1326de0, 0xc420010280, 0x0, ...)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/client.go:118 +0x1bf
+main.main.func1(0xc4201218f0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/example/client/client.go:18 +0x132
+created by main.main
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/example/client/client.go:16 +0x7f
+
+[2018/06/29 22:04:14 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).WritePkg.func1:317] [session.WritePkg] panic session {echo-client:TCP_CLIENT:1:127.0.0.1:59192<->127.0.0.1:10000}: err=index > windowEnd
+goroutine 130 [running]:
+github.com/AlexStocks/getty.(*session).WritePkg.func1(0xc4201d80d0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:316 +0xbc
+panic(0x1331620, 0x13f4a60)
+	/Users/hudangwei/workspace/go/go/src/runtime/panic.go:491 +0x283
+compress/flate.(*compressor).deflate(0xc4201e6000)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:397 +0xb7d
+compress/flate.(*compressor).write(0xc4201e6000, 0xc4204797a0, 0x60, 0x82, 0xc420475f18, 0x1f, 0x1f)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:551 +0x80
+compress/flate.(*Writer).Write(0xc4201e6000, 0xc4204797a0, 0x60, 0x82, 0x1f, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:709 +0x4b
+github.com/AlexStocks/getty.(*writeFlusher).Write(0xc42000e018, 0xc4204797a0, 0x60, 0x82, 0xc420476ae0, 0x20, 0x18)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/conn.go:191 +0x50
+github.com/AlexStocks/getty.(*gettyTCPConn).Write(0xc4201d8000, 0x132d780, 0xc420476ae0, 0xc420476ae0, 0x15b0bc8, 0x132d780)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/conn.go:281 +0xc8
+github.com/AlexStocks/getty.(*session).WriteBytes(0xc4201d80d0, 0xc4204797a0, 0x60, 0x82, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:349 +0xdc
+github.com/hudangwei/rpc.(*RpcClientPacketHandler).Write(0x15b0bc8, 0x1560540, 0xc4201d80d0, 0x134c920, 0xc4202df1a0, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/readwriter.go:111 +0x19d
+github.com/AlexStocks/getty.(*session).WritePkg(0xc4201d80d0, 0x134c920, 0xc4202df1a0, 0x0, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:323 +0xeb
+github.com/hudangwei/rpc.(*Client).transfer(0xc4201218f0, 0x1560540, 0xc4201d80d0, 0xc4202df1a0, 0xc4201b6db0, 0x100fb64, 0x136ed20)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/client.go:240 +0x8c
+github.com/hudangwei/rpc.(*Client).Call(0xc4201218f0, 0x13b2446, 0x7, 0x13b17a9, 0x4, 0x136ed20, 0xc4201b6d50, 0x1326de0, 0xc4201a6a60, 0x0, ...)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/client.go:118 +0x1bf
+main.main.func1(0xc4201218f0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/example/client/client.go:18 +0x132
+created by main.main
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/example/client/client.go:16 +0x7f
+
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:65): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:95): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:65): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:65): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:95): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:95): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:95): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:95): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).WritePkg.func1:317] [session.WritePkg] panic session {echo-client:TCP_CLIENT:2:127.0.0.1:59193<->127.0.0.1:10000}: err=runtime error: index out of range
+goroutine 42 [running]:
+github.com/AlexStocks/getty.(*session).WritePkg.func1(0xc420178410)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:316 +0xbc
+panic(0x134b9a0, 0x1585dd0)
+	/Users/hudangwei/workspace/go/go/src/runtime/panic.go:491 +0x283
+compress/flate.(*huffmanEncoder).bitCounts(0xc4200bc4d0, 0xc4200c2900, 0x4, 0x11f, 0xf, 0xc4203e22c0, 0x13b1722, 0x0)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/huffman_code.go:186 +0x493
+compress/flate.(*huffmanEncoder).generate(0xc4200bc4d0, 0xc4200ba900, 0x11e, 0x11e, 0xf)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/huffman_code.go:309 +0x1a8
+compress/flate.(*huffmanBitWriter).indexTokens(0xc42013e1e0, 0xc4203aa000, 0x4, 0x4001, 0xc42003e920, 0x11d0a23)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/huffman_bit_writer.go:578 +0x24e
+compress/flate.(*huffmanBitWriter).writeBlock(0xc42013e1e0, 0xc4203aa000, 0x4, 0x4001, 0x0, 0xc42039a300, 0x60, 0xfd00)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/huffman_bit_writer.go:448 +0xa3
+compress/flate.(*compressor).writeBlock(0xc4202f6000, 0xc4203aa000, 0x3, 0x4001, 0x360, 0x53, 0x60)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:170 +0xc2
+compress/flate.(*compressor).deflate(0xc4202f6000)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:415 +0xa11
+compress/flate.(*compressor).syncFlush(0xc4202f6000, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:565 +0x5c
+compress/flate.(*Writer).Flush(0xc4202f6000, 0xc4204b82d0, 0x60)
+	/Users/hudangwei/workspace/go/go/src/compress/flate/deflate.go:724 +0x2d
+github.com/AlexStocks/getty.(*writeFlusher).Write(0xc42008c1b8, 0xc4204b82d0, 0x60, 0x82, 0xc4201bc340, 0x20, 0x18)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/conn.go:195 +0x7e
+github.com/AlexStocks/getty.(*gettyTCPConn).Write(0xc420178340, 0x132d780, 0xc4201bc340, 0xc4201bc340, 0x15b0bc8, 0x132d780)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/conn.go:281 +0xc8
+github.com/AlexStocks/getty.(*session).WriteBytes(0xc420178410, 0xc4204b82d0, 0x60, 0x82, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:349 +0xdc
+github.com/hudangwei/rpc.(*RpcClientPacketHandler).Write(0x15b0bc8, 0x1560540, 0xc420178410, 0x134c920, 0xc420174300, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/readwriter.go:111 +0x19d
+github.com/AlexStocks/getty.(*session).WritePkg(0xc420178410, 0x134c920, 0xc420174300, 0x0, 0x0, 0x0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/alexstocks/getty/session.go:323 +0xeb
+github.com/hudangwei/rpc.(*Client).transfer(0xc4201218f0, 0x1560540, 0xc420178410, 0xc420174300, 0xc4201c4510, 0x100fb64, 0x136ed20)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/client.go:240 +0x8c
+github.com/hudangwei/rpc.(*Client).Call(0xc4201218f0, 0x13b2446, 0x7, 0x13b17a9, 0x4, 0x136ed20, 0xc4201c44b0, 0x1326de0, 0xc4201c63d0, 0x0, ...)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/client.go:118 +0x1bf
+main.main.func1(0xc4201218f0)
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/example/client/client.go:18 +0x132
+created by main.main
+	/Users/hudangwei/workspace/go/3rdpkg/src/github.com/hudangwei/rpc/example/client/client.go:16 +0x7f
+
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:1:127.0.0.1:59192<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:59192->127.0.0.1:10000: read: connection reset by peer
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:95): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:65): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:96): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:65): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handleTCPPackage:603] {echo-client:TCP_CLIENT:2:127.0.0.1:59193<->127.0.0.1:10000}, [session.conn.read] = error{read tcp 127.0.0.1:59193->127.0.0.1:10000: read: connection reset by peer
+github.com/alexstocks/getty/conn.go:252: }
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func1:20] s.Connection.Write(pkg len:97): write tcp 127.0.0.1:59193->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [client.go:main.main.func2:32] s.Connection.Write(pkg len:66): write tcp 127.0.0.1:59192->127.0.0.1:10000: write: broken pipe
+[2018/06/29 22:04:14 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:2:127.0.0.1:59193<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:59193->127.0.0.1:10000: read: connection reset by peer}
+[2018/06/29 22:04:14 CST] [EROR] [session.go:github.com/AlexStocks/getty.(*session).handlePackage.func1:546] {echo-client:TCP_CLIENT:1:127.0.0.1:59192<->127.0.0.1:10000}, [session.handlePackage] error{read tcp 127.0.0.1:59192->127.0.0.1:10000: read: connection reset by peer}
